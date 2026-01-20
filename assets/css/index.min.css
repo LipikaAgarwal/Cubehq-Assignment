@@ -240,7 +240,6 @@ button {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right bottom;
-    background-attachment: fixed;
 }
 .hero-section .hero-content {
     position: relative;
@@ -1242,7 +1241,6 @@ td:first-child {
     }
     .hero-section {
         background-position: 85% 100%;
-        background-attachment: unset;
         padding: 150px 0px 450px;
     }
     .hero-section .hero-content h1 {
